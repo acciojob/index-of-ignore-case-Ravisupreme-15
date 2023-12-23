@@ -8,7 +8,7 @@ function indexOfIgnoreCase(s1, s2) {
 			flag = true;
 		}
 	}
-	if(flag = true){
+	if(flag == true){
 		return ans;
 	}
 	return ans; 
